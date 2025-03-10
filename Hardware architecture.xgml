@@ -1,0 +1,1440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="xgml">
+	<attribute key="Creator" type="String">yFiles</attribute>
+	<attribute key="Version" type="String">2.20</attribute>
+	<section name="graph">
+		<attribute key="hierarchic" type="int">1</attribute>
+		<attribute key="label" type="String"></attribute>
+		<attribute key="directed" type="int">1</attribute>
+		<section name="node">
+			<attribute key="id" type="int">0</attribute>
+			<attribute key="label" type="String">Microcontroller</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">464.5</attribute>
+				<attribute key="y" type="double">387.0438569967491</attribute>
+				<attribute key="w" type="double">459.0</attribute>
+				<attribute key="h" type="double">145.9345999999964</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.flowchart.process</attribute>
+				<attribute key="fill" type="String">#E8EEF7</attribute>
+				<attribute key="fill2" type="String">#B7C9E3</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Microcontroller</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontStyle" type="String">bold</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">1</attribute>
+			<attribute key="label" type="String">Motor drives
+unit</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">646.0</attribute>
+				<attribute key="y" type="double">243.133289773929</attribute>
+				<attribute key="w" type="double">96.0</attribute>
+				<attribute key="h" type="double">40.0</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.flowchart.process</attribute>
+				<attribute key="fill" type="String">#E8EEF7</attribute>
+				<attribute key="fill2" type="String">#B7C9E3</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Motor drives
+unit</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontStyle" type="String">bold</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">2</attribute>
+			<attribute key="label" type="String">State estimation
+unit</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">304.0</attribute>
+				<attribute key="y" type="double">530.9544242195693</attribute>
+				<attribute key="w" type="double">138.0</attribute>
+				<attribute key="h" type="double">40.0</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.flowchart.process</attribute>
+				<attribute key="fill" type="String">#E8EEF7</attribute>
+				<attribute key="fill2" type="String">#B7C9E3</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">State estimation
+unit</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontStyle" type="String">bold</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">3</attribute>
+			<attribute key="label" type="String">Actuators</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">646.0</attribute>
+				<attribute key="y" type="double">160.30888744884825</attribute>
+				<attribute key="w" type="double">96.0</attribute>
+				<attribute key="h" type="double">40.0</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.flowchart.process</attribute>
+				<attribute key="fill" type="String">#E8EEF7</attribute>
+				<attribute key="fill2" type="String">#B7C9E3</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Actuators</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontStyle" type="String">bold</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">4</attribute>
+			<attribute key="label" type="String">Data logging
+unit</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">631.5</attribute>
+				<attribute key="y" type="double">530.9544242195693</attribute>
+				<attribute key="w" type="double">125.0</attribute>
+				<attribute key="h" type="double">40.0</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.flowchart.process</attribute>
+				<attribute key="fill" type="String">#E8EEF7</attribute>
+				<attribute key="fill2" type="String">#B7C9E3</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Data logging
+unit</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontStyle" type="String">bold</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">5</attribute>
+			<attribute key="label" type="String">Audio-visual feedback
+unit</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">304.0</attribute>
+				<attribute key="y" type="double">243.133289773929</attribute>
+				<attribute key="w" type="double">138.0</attribute>
+				<attribute key="h" type="double">40.0</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.flowchart.process</attribute>
+				<attribute key="fill" type="String">#E8EEF7</attribute>
+				<attribute key="fill2" type="String">#B7C9E3</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Audio-visual feedback
+unit</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontStyle" type="String">bold</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">6</attribute>
+			<attribute key="label" type="String">Communication
+unit</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">471.0</attribute>
+				<attribute key="y" type="double">530.9544242195693</attribute>
+				<attribute key="w" type="double">138.0</attribute>
+				<attribute key="h" type="double">40.0</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.flowchart.process</attribute>
+				<attribute key="fill" type="String">#E8EEF7</attribute>
+				<attribute key="fill2" type="String">#B7C9E3</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Communication
+unit</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontStyle" type="String">bold</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">7</attribute>
+			<attribute key="label" type="String">Power distribution
+unit</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">793.0730893433799</attribute>
+				<attribute key="y" type="double">387.0438569967491</attribute>
+				<attribute key="w" type="double">125.0</attribute>
+				<attribute key="h" type="double">145.9345999999964</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.flowchart.process</attribute>
+				<attribute key="fill" type="String">#E8EEF7</attribute>
+				<attribute key="fill2" type="String">#B7C9E3</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Power distribution
+unit</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontStyle" type="String">bold</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">8</attribute>
+			<attribute key="label" type="String">Battery</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">925.1730893433798</attribute>
+				<attribute key="y" type="double">387.0438569967491</attribute>
+				<attribute key="w" type="double">96.0</attribute>
+				<attribute key="h" type="double">145.9345999999964</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.flowchart.process</attribute>
+				<attribute key="fill" type="String">#E8EEF7</attribute>
+				<attribute key="fill2" type="String">#B7C9E3</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Battery</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontStyle" type="String">bold</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">9</attribute>
+			<attribute key="label" type="String">Battery</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">687.3</attribute>
+				<attribute key="y" type="double">1155.522485489804</attribute>
+				<attribute key="w" type="double">83.60000000000002</attribute>
+				<attribute key="h" type="double">40.0</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.flowchart.process</attribute>
+				<attribute key="fill" type="String">#E8EEF7</attribute>
+				<attribute key="fill2" type="String">#B7C9E3</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Battery</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontStyle" type="String">bold</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">10</attribute>
+			<attribute key="label" type="String">12 V</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">1038.7506200000007</attribute>
+				<attribute key="y" type="double">1094.952185489804</attribute>
+				<attribute key="w" type="double">80.0</attribute>
+				<attribute key="h" type="double">40.0</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.flowchart.terminator</attribute>
+				<attribute key="fill" type="String">#E8EEF7</attribute>
+				<attribute key="fill2" type="String">#B7C9E3</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">12 V</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">11</attribute>
+			<attribute key="label" type="String">5V</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">1038.7506200000007</attribute>
+				<attribute key="y" type="double">1155.522485489804</attribute>
+				<attribute key="w" type="double">80.0</attribute>
+				<attribute key="h" type="double">40.0</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.flowchart.terminator</attribute>
+				<attribute key="fill" type="String">#E8EEF7</attribute>
+				<attribute key="fill2" type="String">#B7C9E3</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">5V</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">12</attribute>
+			<attribute key="label" type="String">3.3V</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">1038.7506200000007</attribute>
+				<attribute key="y" type="double">1216.092785489804</attribute>
+				<attribute key="w" type="double">80.0</attribute>
+				<attribute key="h" type="double">40.0</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.flowchart.terminator</attribute>
+				<attribute key="fill" type="String">#E8EEF7</attribute>
+				<attribute key="fill2" type="String">#B7C9E3</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">3.3V</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">13</attribute>
+			<attribute key="label" type="String">Power distribution
+unit</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">862.7506200000006</attribute>
+				<attribute key="y" type="double">1155.522485489804</attribute>
+				<attribute key="w" type="double">144.0</attribute>
+				<attribute key="h" type="double">156.39999999999998</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.flowchart.process</attribute>
+				<attribute key="fill" type="String">#E8EEF7</attribute>
+				<attribute key="fill2" type="String">#B7C9E3</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Power distribution
+unit</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontStyle" type="String">bold</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">14</attribute>
+			<attribute key="label" type="String">Audio-visual feedback
+unit</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">862.7506200000006</attribute>
+				<attribute key="y" type="double">635.3543894510212</attribute>
+				<attribute key="w" type="double">144.0</attribute>
+				<attribute key="h" type="double">93.2258210979536</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.flowchart.process</attribute>
+				<attribute key="fill" type="String">#E8EEF7</attribute>
+				<attribute key="fill2" type="String">#B7C9E3</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Audio-visual feedback
+unit</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontStyle" type="String">bold</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">15</attribute>
+			<attribute key="label" type="String">Buzzer</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">1038.7506200000007</attribute>
+				<attribute key="y" type="double">608.7414789020445</attribute>
+				<attribute key="w" type="double">80.0</attribute>
+				<attribute key="h" type="double">40.0</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.flowchart.process</attribute>
+				<attribute key="fill" type="String">#E8EEF7</attribute>
+				<attribute key="fill2" type="String">#B7C9E3</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Buzzer</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontStyle" type="String">bold</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">16</attribute>
+			<attribute key="label" type="String">RGB LED</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">1038.7506200000007</attribute>
+				<attribute key="y" type="double">661.967299999998</attribute>
+				<attribute key="w" type="double">80.0</attribute>
+				<attribute key="h" type="double">40.0</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.flowchart.process</attribute>
+				<attribute key="fill" type="String">#E8EEF7</attribute>
+				<attribute key="fill2" type="String">#B7C9E3</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">RGB LED</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontStyle" type="String">bold</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">17</attribute>
+			<attribute key="label" type="String">Data logging
+unit</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">307.0000000000001</attribute>
+				<attribute key="y" type="double">1216.5799515608473</attribute>
+				<attribute key="w" type="double">144.0</attribute>
+				<attribute key="h" type="double">95.50080000000003</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.flowchart.process</attribute>
+				<attribute key="fill" type="String">#E8EEF7</attribute>
+				<attribute key="fill2" type="String">#B7C9E3</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Data logging
+unit</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontStyle" type="String">bold</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">18</attribute>
+			<attribute key="label" type="String">EEPROM</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">483.0</attribute>
+				<attribute key="y" type="double">1188.8295515608474</attribute>
+				<attribute key="w" type="double">80.0</attribute>
+				<attribute key="h" type="double">40.0</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.flowchart.process</attribute>
+				<attribute key="fill" type="String">#E8EEF7</attribute>
+				<attribute key="fill2" type="String">#B7C9E3</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">EEPROM</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontStyle" type="String">bold</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">19</attribute>
+			<attribute key="label" type="String">SD card</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">483.0000000000001</attribute>
+				<attribute key="y" type="double">1244.3303515608477</attribute>
+				<attribute key="w" type="double">80.00000000000023</attribute>
+				<attribute key="h" type="double">40.0</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.flowchart.process</attribute>
+				<attribute key="fill" type="String">#E8EEF7</attribute>
+				<attribute key="fill2" type="String">#B7C9E3</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">SD card</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontStyle" type="String">bold</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">20</attribute>
+			<attribute key="label" type="String">Communication
+unit</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">307.0000000000001</attribute>
+				<attribute key="y" type="double">1057.8166757804183</attribute>
+				<attribute key="w" type="double">144.0</attribute>
+				<attribute key="h" type="double">145.9345999999964</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.flowchart.process</attribute>
+				<attribute key="fill" type="String">#E8EEF7</attribute>
+				<attribute key="fill2" type="String">#B7C9E3</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Communication
+unit</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontStyle" type="String">bold</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">21</attribute>
+			<attribute key="label" type="String">Receiver module</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">507.84160000000026</attribute>
+				<attribute key="y" type="double">1004.8493757804206</attribute>
+				<attribute key="w" type="double">129.6832000000005</attribute>
+				<attribute key="h" type="double">40.0</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.flowchart.process</attribute>
+				<attribute key="fill" type="String">#E8EEF7</attribute>
+				<attribute key="fill2" type="String">#B7C9E3</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Receiver module</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontStyle" type="String">bold</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">22</attribute>
+			<attribute key="label" type="String">Transceiver module</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">507.8416000000003</attribute>
+				<attribute key="y" type="double">1110.7839757804172</attribute>
+				<attribute key="w" type="double">129.68320000000062</attribute>
+				<attribute key="h" type="double">40.0</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.flowchart.process</attribute>
+				<attribute key="fill" type="String">#E8EEF7</attribute>
+				<attribute key="fill2" type="String">#B7C9E3</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Transceiver module</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontStyle" type="String">bold</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">23</attribute>
+			<attribute key="label" type="String">Transmitter module</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">507.84160000000026</attribute>
+				<attribute key="y" type="double">1057.8166757804188</attribute>
+				<attribute key="w" type="double">129.6832000000005</attribute>
+				<attribute key="h" type="double">40.0</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.flowchart.process</attribute>
+				<attribute key="fill" type="String">#E8EEF7</attribute>
+				<attribute key="fill2" type="String">#B7C9E3</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Transmitter module</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontStyle" type="String">bold</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">24</attribute>
+			<attribute key="label" type="String">Sensors suite</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">485.5</attribute>
+				<attribute key="y" type="double">243.133289773929</attribute>
+				<attribute key="w" type="double">116.1242784930032</attribute>
+				<attribute key="h" type="double">40.0</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.flowchart.process</attribute>
+				<attribute key="fill" type="String">#E8EEF7</attribute>
+				<attribute key="fill2" type="String">#B7C9E3</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Sensors suite</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontStyle" type="String">bold</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">25</attribute>
+			<attribute key="label" type="String">State estimation
+unit</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">307.0</attribute>
+				<attribute key="y" type="double">767.9018999999946</attribute>
+				<attribute key="w" type="double">143.99999999999997</attribute>
+				<attribute key="h" type="double">357.80379999998934</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.flowchart.process</attribute>
+				<attribute key="fill" type="String">#E8EEF7</attribute>
+				<attribute key="fill2" type="String">#B7C9E3</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">State estimation
+unit</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontStyle" type="String">bold</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">26</attribute>
+			<attribute key="label" type="String">Accelerometer</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">118.99999999999989</attribute>
+				<attribute key="y" type="double">714.9345999999964</attribute>
+				<attribute key="w" type="double">103.0</attribute>
+				<attribute key="h" type="double">40.0</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.flowchart.process</attribute>
+				<attribute key="fill" type="String">#E8EEF7</attribute>
+				<attribute key="fill2" type="String">#B7C9E3</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Accelerometer</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontStyle" type="String">bold</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">27</attribute>
+			<attribute key="label" type="String">Gyroscope</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">118.99999999999989</attribute>
+				<attribute key="y" type="double">661.967299999998</attribute>
+				<attribute key="w" type="double">103.0</attribute>
+				<attribute key="h" type="double">40.0</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.flowchart.process</attribute>
+				<attribute key="fill" type="String">#E8EEF7</attribute>
+				<attribute key="fill2" type="String">#B7C9E3</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Gyroscope</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontStyle" type="String">bold</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">28</attribute>
+			<attribute key="label" type="String">Magnetometer</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">118.99999999999989</attribute>
+				<attribute key="y" type="double">767.9018999999944</attribute>
+				<attribute key="w" type="double">103.0</attribute>
+				<attribute key="h" type="double">40.0</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.flowchart.process</attribute>
+				<attribute key="fill" type="String">#E8EEF7</attribute>
+				<attribute key="fill2" type="String">#B7C9E3</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Magnetometer</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontStyle" type="String">bold</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">29</attribute>
+			<attribute key="label" type="String">Barometer</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">118.99999999999989</attribute>
+				<attribute key="y" type="double">820.8691999999928</attribute>
+				<attribute key="w" type="double">103.0</attribute>
+				<attribute key="h" type="double">40.0</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.flowchart.process</attribute>
+				<attribute key="fill" type="String">#E8EEF7</attribute>
+				<attribute key="fill2" type="String">#B7C9E3</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Barometer</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontStyle" type="String">bold</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">30</attribute>
+			<attribute key="label" type="String">LIDAR</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">486.0</attribute>
+				<attribute key="y" type="double">609.0</attribute>
+				<attribute key="w" type="double">86.0</attribute>
+				<attribute key="h" type="double">40.0</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.flowchart.process</attribute>
+				<attribute key="fill" type="String">#E8EEF7</attribute>
+				<attribute key="fill2" type="String">#B7C9E3</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">LIDAR</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontStyle" type="String">bold</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">31</attribute>
+			<attribute key="label" type="String">Sonar</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">486.0</attribute>
+				<attribute key="y" type="double">661.967299999998</attribute>
+				<attribute key="w" type="double">86.0</attribute>
+				<attribute key="h" type="double">40.0</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.flowchart.process</attribute>
+				<attribute key="fill" type="String">#E8EEF7</attribute>
+				<attribute key="fill2" type="String">#B7C9E3</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Sonar</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontStyle" type="String">bold</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">32</attribute>
+			<attribute key="label" type="String">GPS</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">118.99999999999989</attribute>
+				<attribute key="y" type="double">873.8364999999908</attribute>
+				<attribute key="w" type="double">103.0</attribute>
+				<attribute key="h" type="double">40.0</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.flowchart.process</attribute>
+				<attribute key="fill" type="String">#E8EEF7</attribute>
+				<attribute key="fill2" type="String">#B7C9E3</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">GPS</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontStyle" type="String">bold</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">33</attribute>
+			<attribute key="label" type="String">IR Proximity
+sensor</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">486.0</attribute>
+				<attribute key="y" type="double">714.9345999999964</attribute>
+				<attribute key="w" type="double">86.0</attribute>
+				<attribute key="h" type="double">40.0</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.flowchart.process</attribute>
+				<attribute key="fill" type="String">#E8EEF7</attribute>
+				<attribute key="fill2" type="String">#B7C9E3</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">IR Proximity
+sensor</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontStyle" type="String">bold</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">34</attribute>
+			<attribute key="label" type="String">Temperature sensor</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">512.25</attribute>
+				<attribute key="y" type="double">873.8364999999908</attribute>
+				<attribute key="w" type="double">137.5</attribute>
+				<attribute key="h" type="double">40.0</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.flowchart.process</attribute>
+				<attribute key="fill" type="String">#E8EEF7</attribute>
+				<attribute key="fill2" type="String">#B7C9E3</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Temperature sensor</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontStyle" type="String">bold</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">35</attribute>
+			<attribute key="label" type="String">Humidity sensor</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">512.25</attribute>
+				<attribute key="y" type="double">926.8037999999892</attribute>
+				<attribute key="w" type="double">137.5</attribute>
+				<attribute key="h" type="double">40.0</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.flowchart.process</attribute>
+				<attribute key="fill" type="String">#E8EEF7</attribute>
+				<attribute key="fill2" type="String">#B7C9E3</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Humidity sensor</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontStyle" type="String">bold</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">36</attribute>
+			<attribute key="label" type="String">Air speed sensor</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">512.0</attribute>
+				<attribute key="y" type="double">767.9018999999944</attribute>
+				<attribute key="w" type="double">138.0</attribute>
+				<attribute key="h" type="double">40.0</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.flowchart.process</attribute>
+				<attribute key="fill" type="String">#E8EEF7</attribute>
+				<attribute key="fill2" type="String">#B7C9E3</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Air speed sensor</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontStyle" type="String">bold</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">37</attribute>
+			<attribute key="label" type="String">Angle of attack sensor</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">512.0</attribute>
+				<attribute key="y" type="double">820.8691999999928</attribute>
+				<attribute key="w" type="double">138.0</attribute>
+				<attribute key="h" type="double">40.0</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.flowchart.process</attribute>
+				<attribute key="fill" type="String">#E8EEF7</attribute>
+				<attribute key="fill2" type="String">#B7C9E3</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Angle of attack sensor</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontStyle" type="String">bold</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">38</attribute>
+			<attribute key="label" type="String">Sensors suite</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">862.7506200000006</attribute>
+				<attribute key="y" type="double">793.2386968783819</attribute>
+				<attribute key="w" type="double">144.0</attribute>
+				<attribute key="h" type="double">146.45164219590686</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.flowchart.process</attribute>
+				<attribute key="fill" type="String">#E8EEF7</attribute>
+				<attribute key="fill2" type="String">#B7C9E3</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Sensors suite</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontStyle" type="String">bold</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">39</attribute>
+			<attribute key="label" type="String">Tachometer</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">1046.7506200000007</attribute>
+				<attribute key="y" type="double">846.4645179763354</attribute>
+				<attribute key="w" type="double">96.0</attribute>
+				<attribute key="h" type="double">40.0</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.flowchart.process</attribute>
+				<attribute key="fill" type="String">#E8EEF7</attribute>
+				<attribute key="fill2" type="String">#B7C9E3</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Tachometer</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontStyle" type="String">bold</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">40</attribute>
+			<attribute key="label" type="String">Voltage sensor</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">1046.7506200000007</attribute>
+				<attribute key="y" type="double">740.0128757804284</attribute>
+				<attribute key="w" type="double">96.0</attribute>
+				<attribute key="h" type="double">40.0</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.flowchart.process</attribute>
+				<attribute key="fill" type="String">#E8EEF7</attribute>
+				<attribute key="fill2" type="String">#B7C9E3</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Voltage sensor</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontStyle" type="String">bold</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">41</attribute>
+			<attribute key="label" type="String">Current sensor</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">1046.7506200000007</attribute>
+				<attribute key="y" type="double">793.2386968783819</attribute>
+				<attribute key="w" type="double">96.0</attribute>
+				<attribute key="h" type="double">40.0</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.flowchart.process</attribute>
+				<attribute key="fill" type="String">#E8EEF7</attribute>
+				<attribute key="fill2" type="String">#B7C9E3</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Current sensor</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontStyle" type="String">bold</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">42</attribute>
+			<attribute key="label" type="String">User input unit</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">146.92691065661995</attribute>
+				<attribute key="y" type="double">387.0438569967492</attribute>
+				<attribute key="w" type="double">103.0</attribute>
+				<attribute key="h" type="double">145.9345999999964</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.flowchart.process</attribute>
+				<attribute key="fill" type="String">#E8EEF7</attribute>
+				<attribute key="fill2" type="String">#B7C9E3</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">User input unit</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontStyle" type="String">bold</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">43</attribute>
+			<attribute key="label" type="String">User input unit</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">862.7506200000006</attribute>
+				<attribute key="y" type="double">969.4318179763336</attribute>
+				<attribute key="w" type="double">144.0</attribute>
+				<attribute key="h" type="double">145.9345999999964</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.flowchart.process</attribute>
+				<attribute key="fill" type="String">#E8EEF7</attribute>
+				<attribute key="fill2" type="String">#B7C9E3</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">User input unit</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontStyle" type="String">bold</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">44</attribute>
+			<attribute key="label" type="String">Button</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">1042.4271539074277</attribute>
+				<attribute key="y" type="double">916.4645179763354</attribute>
+				<attribute key="w" type="double">87.35306781485417</attribute>
+				<attribute key="h" type="double">40.0</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.flowchart.process</attribute>
+				<attribute key="fill" type="String">#E8EEF7</attribute>
+				<attribute key="fill2" type="String">#B7C9E3</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Button</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontStyle" type="String">bold</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">45</attribute>
+			<attribute key="label" type="String">Switch</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">1042.4271539074277</attribute>
+				<attribute key="y" type="double">969.4318179763336</attribute>
+				<attribute key="w" type="double">87.35306781485417</attribute>
+				<attribute key="h" type="double">40.0</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.flowchart.process</attribute>
+				<attribute key="fill" type="String">#E8EEF7</attribute>
+				<attribute key="fill2" type="String">#B7C9E3</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Switch</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontStyle" type="String">bold</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">46</attribute>
+			<attribute key="label" type="String">Potentiometer</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">1042.4271539074277</attribute>
+				<attribute key="y" type="double">1022.3991179763318</attribute>
+				<attribute key="w" type="double">87.35306781485417</attribute>
+				<attribute key="h" type="double">40.0</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.flowchart.process</attribute>
+				<attribute key="fill" type="String">#E8EEF7</attribute>
+				<attribute key="fill2" type="String">#B7C9E3</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Potentiometer</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontStyle" type="String">bold</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="model"/>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">2</attribute>
+			<attribute key="target" type="int">0</attribute>
+			<section name="graphics">
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xTarget" type="double">-0.6993464052287581</attribute>
+				<attribute key="yTarget" type="double">1.0004825322694373</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">6</attribute>
+			<attribute key="target" type="int">0</attribute>
+			<section name="graphics">
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xTarget" type="double">0.02832244008714597</attribute>
+				<attribute key="yTarget" type="double">0.9999969077884303</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">1</attribute>
+			<attribute key="target" type="int">3</attribute>
+			<section name="graphics">
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">0</attribute>
+			<attribute key="target" type="int">4</attribute>
+			<section name="graphics">
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">0.7276688453159041</attribute>
+				<attribute key="ySource" type="double">1.0009681567504474</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">0</attribute>
+			<attribute key="target" type="int">5</attribute>
+			<section name="graphics">
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">-0.6993464052287581</attribute>
+				<attribute key="ySource" type="double">-1.0001663847454947</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">9</attribute>
+			<attribute key="target" type="int">13</attribute>
+			<section name="graphics">
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">13</attribute>
+			<attribute key="target" type="int">10</attribute>
+			<section name="graphics">
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">1.0005882352941216</attribute>
+				<attribute key="ySource" type="double">-0.7745562659846574</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">13</attribute>
+			<attribute key="target" type="int">11</attribute>
+			<section name="graphics">
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">13</attribute>
+			<attribute key="target" type="int">12</attribute>
+			<section name="graphics">
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">1.0001176470588253</attribute>
+				<attribute key="ySource" type="double">0.7745562659846574</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">14</attribute>
+			<attribute key="target" type="int">15</attribute>
+			<section name="graphics">
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">0.9995693457720416</attribute>
+				<attribute key="ySource" type="double">-0.5494389388385827</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">14</attribute>
+			<attribute key="target" type="int">16</attribute>
+			<section name="graphics">
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">0.9996111709125758</attribute>
+				<attribute key="ySource" type="double">0.5709343234641896</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">17</attribute>
+			<attribute key="target" type="int">18</attribute>
+			<section name="graphics">
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">1.0005561600000015</attribute>
+				<attribute key="ySource" type="double">-0.5811553411070903</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">17</attribute>
+			<attribute key="target" type="int">19</attribute>
+			<section name="graphics">
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">0.9999161600000023</attribute>
+				<attribute key="ySource" type="double">0.5811553411070903</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">20</attribute>
+			<attribute key="target" type="int">22</attribute>
+			<section name="graphics">
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">1.000209926388894</attribute>
+				<attribute key="ySource" type="double">0.7259046175478553</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">21</attribute>
+			<attribute key="target" type="int">20</attribute>
+			<section name="graphics">
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xTarget" type="double">0.9997758986111163</attribute>
+				<attribute key="yTarget" type="double">-0.7259046175478522</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">20</attribute>
+			<attribute key="target" type="int">23</attribute>
+			<section name="graphics">
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">24</attribute>
+			<attribute key="target" type="int">0</attribute>
+			<section name="graphics">
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xTarget" type="double">0.0915032679738562</attribute>
+				<attribute key="yTarget" type="double">-1.0006804637859477</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">28</attribute>
+			<attribute key="target" type="int">25</attribute>
+			<section name="graphics">
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">29</attribute>
+			<attribute key="target" type="int">25</attribute>
+			<section name="graphics">
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xTarget" type="double">0.10871359805292806</attribute>
+				<attribute key="yTarget" type="double">0.2960689629344338</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">32</attribute>
+			<attribute key="target" type="int">25</attribute>
+			<section name="graphics">
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xTarget" type="double">-0.5183348411289875</attribute>
+				<attribute key="yTarget" type="double">0.5921379258688676</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">26</attribute>
+			<attribute key="target" type="int">25</attribute>
+			<section name="graphics">
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xTarget" type="double">-0.8666950851189407</attribute>
+				<attribute key="yTarget" type="double">-0.2960689629344338</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">27</attribute>
+			<attribute key="target" type="int">25</attribute>
+			<section name="graphics">
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xTarget" type="double">0.09710158991992932</attribute>
+				<attribute key="yTarget" type="double">-0.5921379258688676</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">30</attribute>
+			<attribute key="target" type="int">25</attribute>
+			<section name="graphics">
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xTarget" type="double">1.0002073787011765</attribute>
+				<attribute key="yTarget" type="double">-0.8882068888033015</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">31</attribute>
+			<attribute key="target" type="int">25</attribute>
+			<section name="graphics">
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xTarget" type="double">0.9246595200932981</attribute>
+				<attribute key="yTarget" type="double">-0.5921379258688676</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">33</attribute>
+			<attribute key="target" type="int">25</attribute>
+			<section name="graphics">
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xTarget" type="double">0.9246595200932981</attribute>
+				<attribute key="yTarget" type="double">-0.2960689629344338</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">36</attribute>
+			<attribute key="target" type="int">25</attribute>
+			<section name="graphics">
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xTarget" type="double">0.9246595200932981</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">37</attribute>
+			<attribute key="target" type="int">25</attribute>
+			<section name="graphics">
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xTarget" type="double">0.9246595200932981</attribute>
+				<attribute key="yTarget" type="double">0.2960689629344338</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">34</attribute>
+			<attribute key="target" type="int">25</attribute>
+			<section name="graphics">
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xTarget" type="double">0.9246595200932981</attribute>
+				<attribute key="yTarget" type="double">0.5921379258688676</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">35</attribute>
+			<attribute key="target" type="int">25</attribute>
+			<section name="graphics">
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xTarget" type="double">0.9246595200932981</attribute>
+				<attribute key="yTarget" type="double">0.8882068888033015</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">40</attribute>
+			<attribute key="target" type="int">38</attribute>
+			<section name="graphics">
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xTarget" type="double">0.999707313368044</attribute>
+				<attribute key="yTarget" type="double">-0.7268723013259742</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">41</attribute>
+			<attribute key="target" type="int">38</attribute>
+			<section name="graphics">
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xTarget" type="double">0.699526263254422</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">39</attribute>
+			<attribute key="target" type="int">38</attribute>
+			<section name="graphics">
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xTarget" type="double">0.9792750779895019</attribute>
+				<attribute key="yTarget" type="double">0.7268723013259742</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">8</attribute>
+			<attribute key="target" type="int">7</attribute>
+			<section name="graphics">
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">0</attribute>
+			<attribute key="target" type="int">1</attribute>
+			<section name="graphics">
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">0.7908496732026143</attribute>
+				<attribute key="ySource" type="double">-1.000194839304934</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">42</attribute>
+			<attribute key="target" type="int">0</attribute>
+			<section name="graphics">
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">44</attribute>
+			<attribute key="target" type="int">43</attribute>
+			<section name="graphics">
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xTarget" type="double">1.000032810369567</attribute>
+				<attribute key="yTarget" type="double">-0.7259046175478537</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">45</attribute>
+			<attribute key="target" type="int">43</attribute>
+			<section name="graphics">
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">46</attribute>
+			<attribute key="target" type="int">43</attribute>
+			<section name="graphics">
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">standard</attribute>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xTarget" type="double">0.9998004936610388</attribute>
+				<attribute key="yTarget" type="double">0.7259046175478537</attribute>
+			</section>
+		</section>
+	</section>
+</section>
